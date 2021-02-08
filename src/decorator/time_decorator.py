@@ -1,10 +1,12 @@
-# -*-coding:UTF-8-*-#
-'''
-des: 装饰器，调用函数之前打印调用函数的时间
-author: leslieyuan
-time: 2021-02-07 10：59
-version:
-'''
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+    des: 装饰器，调用函数之前打印调用函数的时间
+    author: leslieyuan
+    time: 2021-02-07 10：59
+    version:
+"""
 
 import time
 
